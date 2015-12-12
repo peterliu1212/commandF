@@ -35,6 +35,6 @@ OCR engine available. It can recognize more than 60 languages, combing with the 
 OCR engine in the traditional OCR app.
 
 Here is the link to my GitHub to the project. The project includes my self-built opencv2 framework that I added OpenCV extra module, 
-which is not in official release. https://github.com/peterliu1212/Command-F
+which is not in official release. https://github.com/peterliu1212/commandF.git
 Here is the link to my YouTube Presentation. This 16mins video has more detail about the project, background and implementation.
 https://youtu.be/zAgGw-hS5PQ
